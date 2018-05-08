@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 38,
+    "uniqCompNum": 41,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-128x129.png",
@@ -129,7 +129,7 @@
             }
           },
           "title": "Darleen Wilkerson",
-          "text": "<p>This photo was taken with your iPad&nbsp;</p>",
+          "text": "<p>Collections from a Lifetime</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -336,8 +336,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-672-2000x2667.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-671-2000x2667.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -347,7 +347,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-723-2000x2666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-722-2000x2666.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -359,7 +359,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-734-2000x2667.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -533,7 +533,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-q"
+          "_anchor": "social-buttons1-13"
         }
       ]
     },
@@ -732,7 +732,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-r"
+          "_anchor": "social-buttons1-14"
         }
       ]
     },
@@ -859,7 +859,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8860.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1056,7 +1056,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-p"
+          "_anchor": "social-buttons1-12"
         }
       ]
     }
