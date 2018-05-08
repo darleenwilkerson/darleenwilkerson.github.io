@@ -8,12 +8,12 @@
 }
 #dropdown-menu-2btn-8 .navbar,
 #dropdown-menu-2btn-8 .dropdown-menu {
-  background: #40e0d0;
+  background: #f8f8f6;
 }
 #dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-8 .dropdown-menu a:hover,
 #dropdown-menu-2btn-8 .dropdown-menu a:focus {
-  background: #2eddcc;
+  background: #efefeb;
 }
 #dropdown-menu-2btn-8 .navbar-toggler {
   color: #000000;
