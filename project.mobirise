@@ -21,8 +21,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Darleen Wilkerson",
+        "meta_descr": "Artist Website",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -233,7 +233,8 @@
     "Fabrics.html": {
       "settings": {
         "title": "Fabrics",
-        "order": 2
+        "order": 2,
+        "meta_descr": "Designer Silk Wraps & Artistic Scarves"
       },
       "components": [
         {
@@ -375,7 +376,8 @@
     "Meet the Artist.html": {
       "settings": {
         "title": "Meet the Artist",
-        "order": 3
+        "order": 3,
+        "meta_descr": "Meet Darleen"
       },
       "components": [
         {
@@ -517,7 +519,8 @@
     "Mixed Media.html": {
       "settings": {
         "title": "Mixed Media",
-        "order": 1
+        "order": 1,
+        "meta_descr": "Paintings & Batiks"
       },
       "components": [
         {
