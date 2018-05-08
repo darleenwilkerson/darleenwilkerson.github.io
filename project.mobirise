@@ -37,7 +37,7 @@
           "_inherit": "dropdown-menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
@@ -79,7 +79,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-8"
         },
@@ -141,11 +141,13 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "60px",
-              "color": "#231c1c"
+              "color": "#231c1c",
+              "text-align": "left"
             },
             ".lead P": {
               "color": "#231c1c",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "left"
             }
           }
         },
@@ -246,7 +248,7 @@
           "_inherit": "dropdown-menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
@@ -288,7 +290,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-k"
         },
@@ -548,7 +550,7 @@
           "_inherit": "dropdown-menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
@@ -590,7 +592,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-m"
         },
@@ -747,7 +749,7 @@
           "_inherit": "dropdown-menu",
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": false,
             "transparent": false,
@@ -789,7 +791,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-b"
         },
@@ -859,7 +861,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8860.jpg",
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8861.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,

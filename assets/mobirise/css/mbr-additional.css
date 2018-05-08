@@ -21,10 +21,12 @@
 #msg-box4-7 .mbr-section-title {
   font-size: 60px;
   color: #231c1c;
+  text-align: left;
 }
 #msg-box4-7 .lead P {
   color: #231c1c;
   font-size: 30px;
+  text-align: left;
 }
 #contacts3-a STRONG {
   color: #000000;
