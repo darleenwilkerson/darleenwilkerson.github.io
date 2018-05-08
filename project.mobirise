@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 24,
+    "uniqCompNum": 28,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png"
   },
@@ -90,7 +90,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -149,7 +149,7 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -207,10 +207,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#40e0d0",
             "overlay": false,
             "overlayColor": "#222",
@@ -263,10 +263,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#40e0d0"
+              "background": "#f8f8f6"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#2eddcc"
+              "background": "#efefeb"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -291,7 +291,7 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -344,6 +344,31 @@
             }
           },
           "_anchor": "contacts3-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#40e0d0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-q"
         }
       ]
     },
@@ -380,10 +405,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#40e0d0"
+              "background": "#f8f8f6"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#2eddcc"
+              "background": "#efefeb"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -408,7 +433,7 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -461,6 +486,31 @@
             }
           },
           "_anchor": "contacts3-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#40e0d0",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-r"
         }
       ]
     },
@@ -497,10 +547,10 @@
               "color": "#000000"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#40e0d0"
+              "background": "#f8f8f6"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#2eddcc"
+              "background": "#efefeb"
             },
             ".navbar-toggler": {
               "color": "#000000"
@@ -602,7 +652,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-721x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -638,7 +688,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
-            "bgColor": "#231c1c",
+            "bgColor": "#f8f8f6",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": false,
@@ -646,7 +696,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white-outline btn-white\" href=\"#\" data-max-id=\"1770545297741414783_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white-outline btn-white\" href=\"#\" data-max-id=\"1770546732528830270_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -661,7 +711,7 @@
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -719,11 +769,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#231c1c",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#40e0d0",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -738,7 +788,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-g"
+          "_anchor": "social-buttons1-p"
         }
       ]
     }
