@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Darleen Wilkerson",
-    "currentPage": "index.html",
+    "currentPage": "Meet the Artist.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -624,7 +624,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/batik-la-quinta-218-892x1163.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-444-1400x1867.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -861,7 +861,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8861.jpg",
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8862.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
