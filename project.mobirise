@@ -166,7 +166,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-black\">Download for Mac</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
@@ -468,7 +468,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-black\">Download for Mac</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
@@ -667,7 +667,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-black\">Download for Mac</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
@@ -861,7 +861,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8860.jpg",
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8861.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -991,7 +991,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-black\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-black\">Download for Mac</a></li></ul>",
+          "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
