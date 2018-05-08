@@ -111,7 +111,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/batik-la-quinta-275-899x1103.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-498-1400x1694.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -129,7 +129,7 @@
             }
           },
           "title": "Darleen Wilkerson",
-          "text": "<p>Collections from a Lifetime</p>",
+          "text": "<p>This photo was taken with your iPad&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -336,7 +336,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-672-2000x2667.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -347,7 +347,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-9.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-723-2000x2666.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -358,7 +358,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-734-2000x2667.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
