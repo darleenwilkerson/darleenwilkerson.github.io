@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 #dropdown-menu-2btn-8 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -28,6 +30,9 @@
   font-size: 30px;
   text-align: center;
 }
+#content5-15 P {
+  font-size: 22px;
+}
 #contacts3-a STRONG {
   color: #000000;
 }
@@ -56,6 +61,12 @@
 }
 #content5-11 .mbr-section-title {
   text-align: center;
+}
+#slider-s I {
+  color: #fff8e0;
+}
+#slider-s H2 {
+  color: #fff8e0;
 }
 #msg-box3-x .mbr-header .mbr-header__text {
   text-align: center;
@@ -95,6 +106,8 @@
 #contacts3-n P {
   color: #000000;
 }
+
+
 #dropdown-menu-2btn-b .hide-buttons [data-button] {
   display: none !important;
 }
@@ -118,15 +131,22 @@
 #content5-10 .mbr-section-title {
   text-align: center;
 }
+#slider-d H2 {
+  font-family: 'Lora', serif;
+}
+#slider-d I {
+  color: #fff8e0;
+  font-family: 'Playfair Display', sans-serif;
+}
 #msg-box3-y .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-y .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#contacts3-a STRONG {
+#contacts3-n STRONG {
   color: #000000;
 }
-#contacts3-a P {
+#contacts3-n P {
   color: #000000;
 }

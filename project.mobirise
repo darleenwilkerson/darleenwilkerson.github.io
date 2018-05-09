@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 41,
+    "uniqCompNum": 47,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-128x129.png",
@@ -79,7 +79,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-8"
         },
@@ -111,7 +111,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-498-1400x1694.jpg",
+              "src": "@PROJECT_PATH@/assets/images/batik-la-quinta-229-lg-1400x1714.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -129,7 +129,7 @@
             }
           },
           "title": "Darleen Wilkerson",
-          "text": "<p>Collections from a Lifetime</p>",
+          "text": "<p>We need a tag line or something here</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -153,6 +153,39 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>Whether on canvas or on cloth making art for me is fun. From childhood I was preoccupied with color and texture. I was drawn to bright colors, glitter and shinny accents in those early years and still get a lot of satisfaction from creating items which come from this child-like place within myself.</p><p>On this website you can view groups of styles and techniques which I use in my art work. My mixed media paintings reflect this long love affair with color, texture and images from my creative child spirit – yet – also influenced from my many years living and working around the world in textile product development.</p><p>Aside from the mixed media I show a calmer and more earthy side with a group of batiks. I have been making batiks since I was in college in the 70’s. Through my art career I have made batik stuffed sculpture, clothing and wall art. I have had luck I selling batiks for many years and always enjoy making them and are currently showing them throughout the area of California where I live.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-15",
+          "_styles": {
+            "P": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": "4",
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -164,7 +197,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get In Touch</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
           "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
@@ -212,16 +245,16 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#40e0d0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
             "counters": true,
             "facebook": true,
             "twitter": true,
@@ -290,16 +323,16 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-k"
         },
         {
           "_params": {
             "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -338,36 +371,25 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-671-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scarves-la-quinta-46-2000x2667.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
-                "title": "Slide 1",
-                "contentAlign": "right",
+                "title": "<i>Scarf</i>",
+                "contentAlign": "left",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-722-2000x2666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scarves-la-quinta-61-a-lg-2000x2511.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": true,
-                "title": "Slide 2",
+                "title": "<i>Scarf</i>",
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-734-2000x2667.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               }
             ]
@@ -378,7 +400,15 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-s"
+          "_anchor": "slider-s",
+          "_styles": {
+            "I": {
+              "color": "#fff8e0"
+            },
+            "H2": {
+              "color": "#fff8e0"
+            }
+          }
         },
         {
           "_styles": {
@@ -394,8 +424,8 @@
             "showMeta": false,
             "showText": true,
             "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -411,8 +441,8 @@
           },
           "title": "Collect Art",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>",
+          "text": "<p>Collect designer silk wraps and artistic scarves featuring artwork from Darleen Wilkerson .</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -425,12 +455,12 @@
             "token": "386624395.727bfe1.bf15df9ca75a4ee28e9ed10b38849ad3",
             "showTitle": false,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
+            "imagesPerRowGrid": "4",
+            "rows": "4",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
-            "spacing": 5,
+            "spacing": "9",
             "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -443,7 +473,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white\" href=\"#\" data-max-id=\"1770548435902854448_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-secondary-outline\" href=\"#\" data-max-id=\"1761371776096155609_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -466,14 +496,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get In Touch</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
           "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
             "alerts": {
-              "success": "Thanks!  I will contact you shortly."
+              "success": "Thanks!  I will be in touch with you shortly."
             },
             "fields": {
               "name": {
@@ -514,16 +544,16 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#40e0d0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
             "counters": true,
             "facebook": true,
             "twitter": true,
@@ -535,7 +565,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-13"
+          "_anchor": "social-buttons1-19"
         }
       ]
     },
@@ -592,7 +622,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-m"
         },
@@ -604,14 +634,14 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "25",
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "imageSize": "20",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -665,14 +695,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get In Touch</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
           "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
             "alerts": {
-              "success": "Thanks!  I will contact you shortly."
+              "success": "Thanks!  I will be in touch with you shortly."
             },
             "fields": {
               "name": {
@@ -713,16 +743,16 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#40e0d0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
             "counters": true,
             "facebook": true,
             "twitter": true,
@@ -734,7 +764,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-14"
+          "_anchor": "social-buttons1-1a"
         }
       ]
     },
@@ -791,16 +821,16 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DARLEEN WILKERSON</a>",
           "_name": "dropdown-menu-2btn",
           "_anchor": "dropdown-menu-2btn-b"
         },
         {
           "_params": {
             "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "1",
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -839,57 +869,90 @@
             "bgColor": "#40e0d0",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-25lg-2000x1625.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batik-la-quinta-49-large-2000x2407.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<i>Batik</i>",
+                "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-4a-902x911.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batik-la-quinta-50-f-large-2000x2667.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x8861.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 2",
+                "showTitle": true,
+                "title": "<i>Batik</i>",
                 "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/batik-la-quinta-216-lg-copy-2000x2615.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batik-la-quinta-183-lg-2000x1884.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>Batik</i>",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/batik-la-quinta-215-lg-2000x2662.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<i>Batik</i>",
+                "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-25b-953x1174.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batik-macedonian-81-b-2000x2399.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
+                "showTitle": true,
+                "title": "<i>Batik</i>",
+                "contentAlign": "left",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-5a-lg-2000x2030.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>Painting</i>",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-22lg-2000x2544.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>Painting</i>",
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/painting-la-quinta-39-lg-2000x2809.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>Painting</i>",
+                "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               }
@@ -901,7 +964,18 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-d"
+          "_anchor": "slider-d",
+          "_styles": {
+            "H2": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "I": {
+              "color": "#fff8e0",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
         },
         {
           "_styles": {
@@ -917,8 +991,8 @@
             "showMeta": false,
             "showText": true,
             "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -934,7 +1008,7 @@
           },
           "title": "Collect Art",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p>Discover and collect mixed media paintings and American batiks featuring artwork from Darleen Wilkerson .</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Check Availability</a>",
           "alias": "purity/components",
           "_tags": [
@@ -948,13 +1022,13 @@
             "token": "386624395.727bfe1.bf15df9ca75a4ee28e9ed10b38849ad3",
             "showTitle": false,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "2",
+            "imagesPerRowGrid": "4",
+            "rows": "4",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": "5",
-            "spacing": "5",
-            "fullWidth": true,
+            "spacing": "10",
+            "fullWidth": false,
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
@@ -966,7 +1040,7 @@
             "overlayOpacity": 0.6
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white-outline btn-white\" href=\"#\" data-max-id=\"1770546732528830270_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-white-outline btn-secondary-outline\" href=\"#\" data-max-id=\"1761371776096155609_386624395\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -989,14 +1063,14 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Get In Touch</a>",
           "text1": "<strong>Located in&nbsp;</strong><br>\nLa Quinta, California<br><br>\n<strong>Contacts</strong><br>\nEmail: darleenwilkersonart@gmail.com<br>\nPhone: +1 (760) 676 9852<br>",
           "text2": "<strong>Links</strong><ul><li><a href=\"http://www.beyondthefringeclothing.com\" target=\"_blank\" class=\"text-black\">Beyond the Fringe Clothing</a></li><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "darleenwilkersonart@gmail.com",
             "alerts": {
-              "success": "Thanks!  I will contact you shortly."
+              "success": "Thanks!  I will be in touch with you shortly."
             },
             "fields": {
               "name": {
@@ -1025,7 +1099,7 @@
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-a",
+          "_anchor": "contacts3-n",
           "_styles": {
             "STRONG": {
               "color": "#000000"
@@ -1037,16 +1111,16 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/painting-la-quinta-10-880x886.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#40e0d0",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.7",
             "counters": true,
             "facebook": true,
             "twitter": true,
@@ -1058,7 +1132,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-12"
+          "_anchor": "social-buttons1-16"
         }
       ]
     }
